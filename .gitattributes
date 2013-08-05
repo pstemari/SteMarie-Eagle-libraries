@@ -1,5 +1,2 @@
 # Set default
 * text=auto
-
-# Eagle libraries are binary
-*.lbr binary
