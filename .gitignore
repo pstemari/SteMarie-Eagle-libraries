@@ -1,0 +1,10 @@
+DESCRIPTION
+RotaryEncoder.lbr
+SparkFun-Eagle-Libraries-master/*
+SteMarie-old.lbr
+SteMarie-transistor.lbr
+*.l#[12345]
+irf*.lbr
+microbuilder.lbr
+rotary-encoder.lbr
+v-reg-3.lbr
